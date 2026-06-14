@@ -1,7 +1,7 @@
 from utils.cvs_tools import csv_packager
 
 def main() :
-    fieldnames = ["Task", "Hours", "Description"]
+    pass
 
 
 if __name__ == "__main__" :
