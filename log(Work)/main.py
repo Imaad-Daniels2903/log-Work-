@@ -1,8 +1,9 @@
-from utils.cvs_tools import csv_packager
-
-def main() :
-    pass
+from utils.csv_tools import csv_packager
 
 
-if __name__ == "__main__" :
+def main():
+    print("hello")
+
+
+if __name__ == "__main__":
     main()
